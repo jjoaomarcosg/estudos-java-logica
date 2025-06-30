@@ -6,7 +6,7 @@ public class aula5 {
 
     /*
     
-    
+     VÁ NO PACKAGE NOTAS E TUDO ESTARÁ NA CLASSE "estruturaCondicional.java"
 
      */
 }
