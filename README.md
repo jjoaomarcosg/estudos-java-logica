@@ -1,18 +1,20 @@
-## Getting Started
+# Estudos em Java e Lógica de Programação
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório é parte do meu aprendizado em Java e lógica de programação, focado nos fundamentos iniciais da linguagem e resolução de problemas simples.
 
-## Folder Structure
+## 🗂 Estrutura do Repositório
 
-The workspace contains two folders by default, where:
+- `exercicios/` — Códigos dos primeiros exercícios resolvidos.
+- `anotacoes/` — Conteúdo teórico resumido, com exemplos e explicações.
+- (Outras pastas serão adicionadas conforme avanço nos estudos.)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🎯 Conteúdos estudados até agora
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Tipos de dados, variáveis e operadores
+- Entrada e saída com `Scanner`
+- Estruturas condicionais básicas (`if`, `else`)
+- Organização e sintaxe de código Java
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 👨‍💻 Autor
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+João Marcos — [@RevolverJao](https://github.com/RevolverJao)
