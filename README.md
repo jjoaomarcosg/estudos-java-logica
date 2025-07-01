@@ -17,4 +17,4 @@ Este repositório é parte do meu aprendizado em Java e lógica de programação
 
 ## 👨‍💻 Autor
 
-João Marcos — [@RevolverJao](https://github.com/RevolverJao)
+João Marcos — [@jjoaomarcosg](https://github.com/jjoaomarcosg)
