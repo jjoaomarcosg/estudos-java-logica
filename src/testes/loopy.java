@@ -14,3 +14,5 @@ public class loopy {
     }
 
 }
+
+// em while, o código dentro do loop é executado enquanto a condição for verdadeira.
